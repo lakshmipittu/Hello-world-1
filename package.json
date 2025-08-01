@@ -3,6 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "build --output public"
+    "build": "echo 'No build step required.'"
   }
 }
